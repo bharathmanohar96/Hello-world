@@ -8,3 +8,4 @@ NOW I AM LEARNING TO FETCH AND PULL
 git is fast and distributed version control system
 git add
 learning git fetch
+git pull
